@@ -3,9 +3,9 @@ import type { Config } from './types';
 export default {
   version: '1.0',
   id: '/',
-  name: 'My Blog',
-  shortName: 'My Blog',
-  description: 'My blog description goes here...',
+  name: 'Arunachal Job',
+  shortName: 'ArunachalJob',
+  description: 'No.1 Job Website of Arunachal Pradesh here We provide Arunachal Pradesh govt job news, admit card, exam result, scholarship's etc.',
   direction: 'auto',
   language: 'en-US',
   backgroundColor: '#fff',
@@ -40,5 +40,5 @@ export default {
     },
   },
   // Please replace with your blog url if you are using CDN (JsDelivr)
-  origin: 'https://hello-example.blogspot.com',
+  origin: 'https://www.arunachaljob.in',
 } satisfies Config;
